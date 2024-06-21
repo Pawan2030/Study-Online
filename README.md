@@ -1,4 +1,4 @@
-# Study Notaion - Online Study Platform
+# StudyStream- Online Study Platform
 
 ## Overview
 Notaion is an online study platform designed to facilitate learning and teaching through the use of modern web technologies. It provides three main roles:
