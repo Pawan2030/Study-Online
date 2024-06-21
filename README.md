@@ -50,32 +50,37 @@ This project is built using the MERN stack (MongoDB, Express, React, Node.js).
 POST /api/auth/register - Register a new user
 POST /api/auth/login - Login a user
 
-Users
+### Users
 GET /api/users - Get all users (Admin only)
 GET /api/users/:id - Get user by ID (Admin and the user)
 
-Courses
+### Courses
 GET /api/courses - Get all courses
 POST /api/courses - Create a new course (Teacher only)
 GET /api/courses/:id - Get course by ID
 PUT /api/courses/:id - Update course by ID (Teacher only)
 DELETE /api/courses/:id - Delete course by ID (Admin only)
 
-Student Performance
+### Student Performance
 GET /api/performance - Get all student performance (Teacher only)
 GET /api/performance/:studentId - Get performance by student ID (Teacher only)
 
-Contributing
+### Contributing
 
 Fork the project
-
 Create your feature branch (git checkout -b feature/AmazingFeature)
-
 Commit your changes (git commit -m 'Add some AmazingFeature')
-
 Push to the branch (git push origin feature/AmazingFeature)
-
 Open a Pull Request
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+This project is under continuous improvement. For any queries or suggestions, please contact the author:
+
+## Author
+### Pawan 
+### Email - pawanmehta2030@gmail.com
+
 
